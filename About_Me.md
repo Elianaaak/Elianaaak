@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Elianaaak
+- 👀 I’m interested in Web Development, RDBMS
+- 🌱 I’m currently learning JS, SQL, PYTHON
+- 💞️ I’m looking to collaborate at the moment on free HTML, CSS codes
